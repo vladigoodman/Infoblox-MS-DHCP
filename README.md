@@ -1,2 +1,2 @@
 # Infoblox-MS-DHCP
-How migrate Infobox DHCP scopes / lease to Microsoft DHCP
+How migrate Infobox DHCP scopes / leases to Microsoft DHCP
